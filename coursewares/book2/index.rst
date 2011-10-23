@@ -5,3 +5,4 @@
    :maxdepth: 2
    
    B2C01S1
+   B2C01S2
